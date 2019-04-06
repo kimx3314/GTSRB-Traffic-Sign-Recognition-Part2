@@ -6,4 +6,4 @@ using Python
 
 by Sean Sungil Kim
 
-This project is a follow-up of the GTSRB Traffic Sign Recognition Project Part I. In this project, another feature extraction method named Histogram of Oriented Gradients will be explored. In addition, combination of the feature extraction and feature selection/dimensionality reduction methods are analyzed.
+This project is a follow-up of the GTSRB Traffic Sign Recognition Project Part I. In this project, another feature extraction method named Histogram of Oriented Gradients will be explored. In addition, combinations of the feature extraction and feature selection/dimensionality reduction methods are analyzed.
